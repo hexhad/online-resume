@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-resume/static/css/main.073c9b0a.css",
+    "main.js": "/online-resume/static/js/main.82c76352.js",
+    "static/js/787.11103374.chunk.js": "/online-resume/static/js/787.11103374.chunk.js",
+    "static/media/logo.svg": "/online-resume/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/online-resume/index.html",
+    "main.073c9b0a.css.map": "/online-resume/static/css/main.073c9b0a.css.map",
+    "main.82c76352.js.map": "/online-resume/static/js/main.82c76352.js.map",
+    "787.11103374.chunk.js.map": "/online-resume/static/js/787.11103374.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82c76352.js"
+  ]
+}
